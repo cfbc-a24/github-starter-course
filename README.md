@@ -1,3 +1,5 @@
+**Changes Made by SIJIA**
+*HI!!!I'm learning git
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
