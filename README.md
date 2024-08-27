@@ -1,4 +1,4 @@
-#**wfitz-bb has edited this document**
+# **wfitz-bb has edited this document**
 
 # :wave: The Basics of GitHub 
 
