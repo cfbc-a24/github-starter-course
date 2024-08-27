@@ -105,3 +105,12 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+### Love of Life
+
+Happy joining MACSS/UCHicago <3
+REMEMBER:
+1. HAVE FUN
+2. DRINK MORE WATER
+3. SLEEP WELL
