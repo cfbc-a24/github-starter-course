@@ -12,6 +12,26 @@ GitHub is a way to use the same power of Git all online with an easy-to-use inte
 
 GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
 
+## :octocat: A Short History of Git
+
+As with many great things in life, Git began with a bit of creative destruction and fiery controversy.
+
+The Linux kernel is an open source software project of fairly large scope. During the early years of the Linux kernel maintenance (1991–2002), changes to the software were passed around as patches and archived files. In 2002, the Linux kernel project began using a proprietary DVCS called BitKeeper.
+
+In 2005, the relationship between the community that developed the Linux kernel and the commercial company that developed BitKeeper broke down, and the tool’s free-of-charge status was revoked. This prompted the Linux development community (and in particular Linus Torvalds, the creator of Linux) to develop their own tool based on some of the lessons they learned while using BitKeeper. Some of the goals of the new system were as follows:
+
+* Speed
+
+* Simple design
+
+* Strong support for non-linear development (thousands of parallel branches)
+
+* Fully distributed
+
+* Able to handle large projects like the Linux kernel efficiently (speed and data size)
+
+Since its birth in 2005, Git has evolved and matured to be easy to use and yet retain these initial qualities. It’s amazingly fast, it’s very efficient with large projects, and it has an incredible branching system for non-linear development (see ["Git Branching"](https://git-scm.com/book/en/v2/ch00/ch03-git-branching)).
+
 ## :octocat: Understanding the GitHub flow 
 
 The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
