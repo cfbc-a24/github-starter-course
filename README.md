@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+# A small change (Aug 27)
 
 ## 🤓 Course overview and learning outcomes 
 
