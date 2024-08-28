@@ -14,7 +14,7 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 
 ## :octocat: Understanding the GitHub flow 
 
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
+The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work. 📁
 
 ### Repositories
 
@@ -58,7 +58,7 @@ For larger projects, you can keep track of many issues on a project board. GitHu
 You can also link together pull requests and issues to show that a fix is in progress and to automatically close the issue when someone merges the pull request.
 To learn more about issues and linking them to your pull requests, read ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
 
-### Your user profile
+### Your user profile 
 
 Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
 To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
