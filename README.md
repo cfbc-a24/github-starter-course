@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basic conents of GitHub| Yuhao Zhu 
 
 ## 🤓 Course overview and learning outcomes 
 
