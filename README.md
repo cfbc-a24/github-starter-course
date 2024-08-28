@@ -14,7 +14,7 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 
 ## :octocat: Understanding the GitHub flow 
 
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
+The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work. 📁
 
 ### Repositories
 
