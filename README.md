@@ -1,3 +1,5 @@
+Very cool emojis!
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
