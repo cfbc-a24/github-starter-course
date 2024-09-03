@@ -1,0 +1,36 @@
+Raw_Temp = [["20081114", "Chicago", "50.1", "30.0", "35.7"],
+            ["20081114", "Detroit", "45.2", "30.3", "33.4"]]
+
+def lowest_temperature(data, date):
+    '''
+    This function takes a date as input (always [0] in the data list) 
+    and returns the lowest temperature for that city (chooses between[3],
+    the lowest temperatures for that day)
+    '''
+    '''
+    Parameters
+    ----------
+    data : list of list with day, city, highest, lowest and average temp
+    date : date of the measurement
+
+    Returns: lowest temperature
+    '''
+    City = ["foo"]
+    Temp = [2000]
+    for i in range(len(data)):
+        if data[i][0] == date:
+            if float(data[i][3]) < float(Temp[0]):
+                Temp = [data[i][3]]
+                City = [data[i][1]]
+                 
+    print("In ", City, "on ", date, 
+          "it has been registered a minimum temperature of ", Temp)       
+
+    return City
+
+lowest_temperature(Raw_Temp, "20081114")
+
+
+
+
+#this is hte ony success, it returns a list with Chicago as a string inside
