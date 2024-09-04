@@ -114,13 +114,13 @@ def Inputs_Redundant():
     '''
     consecutive_heads = int(input("How many Consecutive Heads? "))
     n_trials = int(input("How Many Trials? "))
-    seed = int(input("What is the seed? "))
-    return consecutive_heads, n_trials, seed
+    weight = float(input("What is the probability of getting head? "))
+    return consecutive_heads, n_trials, weight
 
 
 
 
-def Coin_Toss(weight):
+def Coin_Toss(seed):
     '''
 
 
@@ -145,7 +145,7 @@ def Coin_Toss(weight):
     import random
 
     sim_results = []
-    consecutive_heads, n_trials, seed = Inputs_Redundant()
+    consecutive_heads, n_trials, weight = Inputs_Redundant()
     
     random.seed(seed)
     
@@ -181,8 +181,18 @@ only head it would be 1.0000001 so it would always be below and so it would
 always be head and we would need just 5 toss for Coin_Toss(1.00001)
 '''
 
-Coin_Toss(0.5)
+Coin_Toss(0)
 
 
 
+
+
+# this is function of the seed and the input are as asked consecutive heads, n trials and weight coin
+'''
+output that I got:
+How many Consecutive Heads? 10
+How Many Trials? 1000
+What is the probability of getting head? 0.9
+18.613 average total number of coin flips in order to get 10 heads in a row.
+'''
 
